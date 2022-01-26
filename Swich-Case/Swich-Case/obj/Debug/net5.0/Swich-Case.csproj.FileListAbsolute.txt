@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.exe
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\ref\Swich-Case.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\bin\Debug\net5.0\Swich-Case.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\ref\Swich-Case.dll
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.pdb
+C:\Users\veyse\OneDrive\Masaüstü\C# PROJELERİ\Swich-Case\Swich-Case\obj\Debug\net5.0\Swich-Case.genruntimeconfig.cache
